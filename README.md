@@ -1,4 +1,7 @@
-# CSE1120 Assignment 8: Slide show
+# processing-graphics-assignment-8-slide-show
+
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 Make your slide show about something you are interested in. For example, if you are into a sport, make it about your favourite pro players or make it like you are a coach who is showing pictures of set plays or drills. If you are a fan of a particular tv show, dedicate a picture to each character, etc.
 
 ## The Challenge
